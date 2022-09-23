@@ -8,7 +8,6 @@ SQL é um tipo de banco de dados relacional, ou seja, armazena informações que
 
 - O que é NoSQL?
 
-
 O NoSQL permite trabalhar com banco de dados não estruturados e estrutura de dados totalmente diferentes. No entanto, os bancos de dados NoSQL podem ser consultados usando APIs de linguagem idiomática, linguagens de consulta estruturadas declarativas e linguagens de consulta por exemplo, razão pela qual também são chamados de bancos de dados "não apenas SQL".
 
 Ao contrario do que muitos pensam, o NoSQL **não** foi criado para substituir o SQL. Ele veio para atender o que não se conseguia fazer no modelo relacional, por exemplo, escalabilidade horizontal do banco de dados.
@@ -20,4 +19,3 @@ O importante é que se entenda o conceito deles, ou seja, para que eles servem e
 - Qual maior desafio na hora de realizar o ETL?
 
 O maior desafio é justamente na manipulação dos dados. Tudo envolve uma manipulação forte dos dados. São criadas diversas rotinas de ETL.
-
